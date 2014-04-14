@@ -1,0 +1,121 @@
+<div class="block block-leftnav">
+<div class="block-title"><strong><span>Shop Categories</span></strong></div>
+<div class="block-content">
+        <ul id="leftnav">
+         <!-- HOME BUTTON HACK -->
+
+                <li class="home active"><a href="http://localhost/magento/index.php/?___SID=U"><span>Home</span></a></li>
+        <!-- HOME BUTTON HACK -->
+                    <li class="level0 nav-1 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://localhost/magento/index.php/catalog/category/view/s/furniture/id/10/?___SID=U">
+<span>Furniture</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-1-1 first">
+<a href="http://localhost/magento/index.php/catalog/category/view/s/living-room/id/22/?___SID=U">
+<span>Living Room</span>
+</a>
+</li><li class="level1 nav-1-2 last">
+<a href="http://localhost/magento/index.php/catalog/category/view/s/bedroom/id/23/?___SID=U">
+<span>Bedroom</span>
+</a>
+</li>
+</ul>
+</li>                    <li class="level0 nav-2 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://localhost/magento/index.php/catalog/category/view/s/electronics/id/13/?___SID=U">
+<span>Electronics</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-2-1 first">
+<a href="http://localhost/magento/index.php/catalog/category/view/s/cell-phones/id/8/?___SID=U">
+<span>Cell Phones</span>
+</a>
+</li><li class="level1 nav-2-2 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://localhost/magento/index.php/catalog/category/view/s/cameras/id/12/?___SID=U">
+<span>Cameras</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-2-2-1 first">
+<a href="http://localhost/magento/index.php/catalog/category/view/s/accessories/id/25/?___SID=U">
+<span>Accessories</span>
+</a>
+</li><li class="level2 nav-2-2-2 last">
+<a href="http://localhost/magento/index.php/catalog/category/view/s/digital-cameras/id/26/?___SID=U">
+<span>Digital Cameras</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-2-3 last parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://localhost/magento/index.php/catalog/category/view/s/computers/id/15/?___SID=U">
+<span>Computers</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-2-3-3 first">
+<a href="http://localhost/magento/index.php/catalog/category/view/s/build-your-own/id/27/?___SID=U">
+<span>Build Your Own</span>
+</a>
+</li><li class="level2 nav-2-3-4">
+<a href="http://localhost/magento/index.php/catalog/category/view/s/laptops/id/28/?___SID=U">
+<span>Laptops</span>
+</a>
+</li><li class="level2 nav-2-3-5">
+<a href="http://localhost/magento/index.php/catalog/category/view/s/hard-drives/id/29/?___SID=U">
+<span>Hard Drives</span>
+</a>
+</li><li class="level2 nav-2-3-6">
+<a href="http://localhost/magento/index.php/catalog/category/view/s/monitors/id/30/?___SID=U">
+<span>Monitors</span>
+</a>
+</li><li class="level2 nav-2-3-7">
+<a href="http://localhost/magento/index.php/catalog/category/view/s/ram-memory/id/31/?___SID=U">
+<span>RAM / Memory</span>
+</a>
+</li><li class="level2 nav-2-3-8">
+<a href="http://localhost/magento/index.php/catalog/category/view/s/cases/id/32/?___SID=U">
+<span>Cases</span>
+</a>
+</li><li class="level2 nav-2-3-9">
+<a href="http://localhost/magento/index.php/catalog/category/view/s/processors/id/33/?___SID=U">
+<span>Processors</span>
+</a>
+</li><li class="level2 nav-2-3-10 last">
+<a href="http://localhost/magento/index.php/catalog/category/view/s/peripherals/id/34/?___SID=U">
+<span>Peripherals</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>                    <li class="level0 nav-3 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://localhost/magento/index.php/catalog/category/view/s/apparel/id/18/?___SID=U">
+<span>Apparel</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-3-1 first">
+<a href="http://localhost/magento/index.php/catalog/category/view/s/shirts/id/4/?___SID=U">
+<span>Shirts</span>
+</a>
+</li><li class="level1 nav-3-2 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://localhost/magento/index.php/catalog/category/view/s/shoes/id/5/?___SID=U">
+<span>Shoes</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-3-2-1 first">
+<a href="http://localhost/magento/index.php/catalog/category/view/s/mens/id/16/?___SID=U">
+<span>Mens</span>
+</a>
+</li><li class="level2 nav-3-2-2 last">
+<a href="http://localhost/magento/index.php/catalog/category/view/s/womens/id/17/?___SID=U">
+<span>Womens</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-3-3 last">
+<a href="http://localhost/magento/index.php/catalog/category/view/s/hoodies/id/19/?___SID=U">
+<span>Hoodies</span>
+</a>
+</li>
+</ul>
+</li>                </ul>
+       </div> 
+        </div>

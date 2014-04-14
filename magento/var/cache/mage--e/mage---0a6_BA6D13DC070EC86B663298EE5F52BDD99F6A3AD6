@@ -1,0 +1,27 @@
+<div class="footer-container">
+    <div class="footer">
+        
+        <div class="footer-links">
+        
+    
+        <div class="payment">
+        <img src="http://localhost/magento/skin/frontend/default/hellowired/images/creditcards.gif" alt="We Accept all Major Credit Cards" />
+        </div>
+            
+        
+                                                <!--  -->
+        </div>
+       
+    </div>
+ 
+           
+</div>
+ <div class="copyright">
+        <div class="f-left">
+            <address>&copy; 2013 Magento Demo Store. All Rights Reserved.</address></div>
+            <div class="f-right">
+            <a href="http://www.hellothemes.com/" title="Magento Templates">Magento Templates</a> by <a href="http://www.hellothemes.com/" title="Magento Themes"><img src="http://localhost/magento/skin/frontend/default/hellowired/images/media/hellothemes.png" alt="Magento Themes" /></a>
+            </div>
+            <div style="clear:both;"></div>
+            </div>
+  
